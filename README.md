@@ -1,3 +1,7 @@
+
+### React-Reusable-Component
+This project demonstrate, how to write Reusable component in react.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
